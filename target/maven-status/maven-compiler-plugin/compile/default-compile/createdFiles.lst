@@ -1,0 +1,6 @@
+com\example\demo\Controller\StudentService.class
+com\example\demo\DemoApplication.class
+com\example\demo\JpaRepository\StudentRepository.class
+com\example\demo\student\StudentConfig.class
+com\example\demo\student\Student.class
+com\example\demo\Controller\StudentController.class
